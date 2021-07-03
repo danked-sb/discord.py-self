@@ -51,7 +51,7 @@ packages = [
     'discord.ext.tasks',
 ]
 
-setup(name='discord.py-self',
+setup(name='dankedpy',
       author='Dolfies',
       url='https://github.com/dolfies/discord.py-self',
       project_urls={
